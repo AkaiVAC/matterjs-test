@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  background-color: indigo;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+canvas {
+  border-radius: 10px;
+  box-shadow: 0 0 60px -30px rgba(0, 0, 0, 1);
+}

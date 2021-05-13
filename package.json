@@ -10,6 +10,6 @@
     "matter-js": "^0.14.2"
   },
   "devDependencies": {
-    "parcel": "^1.12.4"
+    "parcel": "1.12.4"
   }
 }

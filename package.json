@@ -7,7 +7,7 @@
     "start": "parcel start ./index.html"
   },
   "dependencies": {
-    "matter-js": "^0.14.2"
+    "matter-js": "^0.17.0"
   },
   "devDependencies": {
     "parcel": "1.12.4"

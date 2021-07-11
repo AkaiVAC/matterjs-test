@@ -2,6 +2,7 @@
 	"extends": ["config:base"],
 	"packageRules": [
 		{
+			"matchDepTypes": ["devDependencies"],
 			"matchUpdateTypes": ["minor", "patch", "pin", "digest"],
 			"matchPackagePatterns": ["lint", "prettier"],
 			"matchCurrentVersion": "!/^0/",
@@ -12,5 +13,5 @@
 		"enabled": true,
 		"automerge": true
 	},
-      "requiredStatusChecks": null
+    	"requiredStatusChecks": null
 }

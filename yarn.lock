@@ -114,35 +114,35 @@
     "@lezer/lr" "^0.15.4"
     json5 "^2.2.1"
 
-"@msgpackr-extract/msgpackr-extract-darwin-arm64@2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@msgpackr-extract/msgpackr-extract-darwin-arm64/-/msgpackr-extract-darwin-arm64-2.1.0.tgz#22416457e55b3b30d7b3c7cc7a21b925ed2b9636"
-  integrity sha512-AcAPOVmTozLfFbjD8EaHedS35V4JfjRQfA/c0TMpqM7/kZiAN19JWN0Q9aKKNiIPAi2ip2mJTJDv0wDcF9MiJw==
+"@msgpackr-extract/msgpackr-extract-darwin-arm64@2.1.1":
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/@msgpackr-extract/msgpackr-extract-darwin-arm64/-/msgpackr-extract-darwin-arm64-2.1.1.tgz#4b0983e3d6954fdd0d63e9e0be1d5a7fbeff2346"
+  integrity sha512-vLn8vd59xDEHwkIjCArtWR+cwVcINbLuQYVBQ2NcfdV4Okc4Jh7+y/ACgQhCAwlPuVxKOAE/lb5Gmn/xx5y77Q==
 
-"@msgpackr-extract/msgpackr-extract-darwin-x64@2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@msgpackr-extract/msgpackr-extract-darwin-x64/-/msgpackr-extract-darwin-x64-2.1.0.tgz#72a73a7a738a72f5979890b560cbff92837e2f6c"
-  integrity sha512-Ro61/p0Vjcq1jUDWOn8EzP7RGPO8KhSDcYwkVe+/jgITMRndHUtKYLZNQm0gQRYQ6fwJAo5W6oNzF/PJ9mvIHA==
+"@msgpackr-extract/msgpackr-extract-darwin-x64@2.1.1":
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/@msgpackr-extract/msgpackr-extract-darwin-x64/-/msgpackr-extract-darwin-x64-2.1.1.tgz#63029ce6510b57a420e2cfd2a0a9be1a2fcf41b0"
+  integrity sha512-ZSEIrHST6yeD6zSP/oQvPKX77d8OvnAP9fWQBFjj4F8ZyUPJHiIZMJ6kIAfuyl4dSrcrHsCodXLGX0YTXYCI9A==
 
-"@msgpackr-extract/msgpackr-extract-linux-arm64@2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@msgpackr-extract/msgpackr-extract-linux-arm64/-/msgpackr-extract-linux-arm64-2.1.0.tgz#370f7c5aa8ade01fa757fde1c93d0f182cb5154e"
-  integrity sha512-nPvr8yKpc2WM3rfek5hlr1l3zjpJI/ejAclOtiSKrEhZdw4dJAs6vLARXLiBNjJtnMZ2rrUUTDFDuLmcxwJppw==
+"@msgpackr-extract/msgpackr-extract-linux-arm64@2.1.1":
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/@msgpackr-extract/msgpackr-extract-linux-arm64/-/msgpackr-extract-linux-arm64-2.1.1.tgz#cb8314900cc08926bf6b7a6fb56f055c84e0b72f"
+  integrity sha512-X5dwqs2CCpK84AuBRt7QDISdraeXTuaVydQdyTihu6mx/pmbJ8A4brEPA7q4Mpc6jLdYicfVDi94MF4iajI+yQ==
 
-"@msgpackr-extract/msgpackr-extract-linux-arm@2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@msgpackr-extract/msgpackr-extract-linux-arm/-/msgpackr-extract-linux-arm-2.1.0.tgz#738e2a4db38ca5b8d7de9413bcbc5d1d9f3d27fe"
-  integrity sha512-KMVJPGKdvIlgeFYxB0uQdRaWN/G+Jd78jI6txw6xwmaog5FDlxl1flgsg239g98gwlnOPSGY3vcoTrcCYxyt7w==
+"@msgpackr-extract/msgpackr-extract-linux-arm@2.1.1":
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/@msgpackr-extract/msgpackr-extract-linux-arm/-/msgpackr-extract-linux-arm-2.1.1.tgz#f34eabfaa21d32bcaa8889b9994bb652d10739fd"
+  integrity sha512-3QmRBsfZw5DcpTHCdRkKykurE6SIKu7GirdSK7PTEhxRTEgj2+WkR7Q3D67L96tzwDGEZnXaKKT57xa5GHmaMQ==
 
-"@msgpackr-extract/msgpackr-extract-linux-x64@2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@msgpackr-extract/msgpackr-extract-linux-x64/-/msgpackr-extract-linux-x64-2.1.0.tgz#9996c536fe9719b26c285c09f895868ea15fa077"
-  integrity sha512-fA+i9BvuPn/37QBBstsZ9lFAjSdN+x0ChRkRYuZB6cLQHBbHO95I9d6Wb98ehXaLRzFO1fDqz7TMMFidCGWrFw==
+"@msgpackr-extract/msgpackr-extract-linux-x64@2.1.1":
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/@msgpackr-extract/msgpackr-extract-linux-x64/-/msgpackr-extract-linux-x64-2.1.1.tgz#b3222c9c3e421215a4911b58adf640a8bedd5a59"
+  integrity sha512-2a6AnG/BpSg0DrGmNh2+NFFCxsZ5dB+umxoxkD+pV+TeoOzi853+fjAZoiAsp7TQxjHI2gMxJmHjQpjJ6smPPg==
 
-"@msgpackr-extract/msgpackr-extract-win32-x64@2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@msgpackr-extract/msgpackr-extract-win32-x64/-/msgpackr-extract-win32-x64-2.1.0.tgz#994bc8201202679443e3dfa37220333fa9995584"
-  integrity sha512-d2dQCRD1PK40IHLJh9WBBBVaqF3SWekZJc33fzPyWtXAD7j98ivvDqSk19pyYIqaMD00oxCDBbcAyAiJZBBkNw==
+"@msgpackr-extract/msgpackr-extract-win32-x64@2.1.1":
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/@msgpackr-extract/msgpackr-extract-win32-x64/-/msgpackr-extract-win32-x64-2.1.1.tgz#9f026304c30a0b86bed0f1907b0e2030d5cd2c6a"
+  integrity sha512-XHEkAu9yUeB0ntz4mNb1QlsbyjVxT7YpKW9ImyfwDYRWfDbh1VMNmzBTeOlhxLw5btQFfXusBWCp6z8+yxtrEA==
 
 "@parcel/bundler-default@2.6.2":
   version "2.6.2"
@@ -1124,18 +1124,18 @@ mdn-data@2.0.14:
   integrity sha512-dn6wd0uw5GsdswPFfsgMp5NSB0/aDe6fK94YJV/AJDYXL6HVLWBsxeq7js7Ad+mU2K9LAlwpk6kN2D5mwCPVow==
 
 msgpackr-extract@^2.0.2:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/msgpackr-extract/-/msgpackr-extract-2.1.0.tgz#7e11030d8556fa26c8bd8d5dffb3a1862ab82be3"
-  integrity sha512-+fBtPPm1X3oT8iZRwZEMyvAz85ezhdYY/foNtNWP+3LNNJq07u8altP8lRUh57eB7UXaY+V27/yBmxQZ8v/UFg==
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/msgpackr-extract/-/msgpackr-extract-2.1.1.tgz#756323c35bf0d978324c2c6f4f9221a2ca9ba8d0"
+  integrity sha512-Z0r92AcVx/wJQUVz0rDEp1YzKj287+MutjqlITukCcgm8rT3Ny8/10/j77vCEnNoISRnCWVZyuYc5UThkrrx+w==
   dependencies:
     node-gyp-build-optional-packages "5.0.3"
   optionalDependencies:
-    "@msgpackr-extract/msgpackr-extract-darwin-arm64" "2.1.0"
-    "@msgpackr-extract/msgpackr-extract-darwin-x64" "2.1.0"
-    "@msgpackr-extract/msgpackr-extract-linux-arm" "2.1.0"
-    "@msgpackr-extract/msgpackr-extract-linux-arm64" "2.1.0"
-    "@msgpackr-extract/msgpackr-extract-linux-x64" "2.1.0"
-    "@msgpackr-extract/msgpackr-extract-win32-x64" "2.1.0"
+    "@msgpackr-extract/msgpackr-extract-darwin-arm64" "2.1.1"
+    "@msgpackr-extract/msgpackr-extract-darwin-x64" "2.1.1"
+    "@msgpackr-extract/msgpackr-extract-linux-arm" "2.1.1"
+    "@msgpackr-extract/msgpackr-extract-linux-arm64" "2.1.1"
+    "@msgpackr-extract/msgpackr-extract-linux-x64" "2.1.1"
+    "@msgpackr-extract/msgpackr-extract-win32-x64" "2.1.1"
 
 msgpackr@^1.5.4:
   version "1.6.2"
